@@ -1,0 +1,6 @@
+README.md
+setup.py
+Lambdata_dgansen.egg-info/PKG-INFO
+Lambdata_dgansen.egg-info/SOURCES.txt
+Lambdata_dgansen.egg-info/dependency_links.txt
+Lambdata_dgansen.egg-info/top_level.txt
